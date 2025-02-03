@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Barhakhari - Guide for Nepali Alphabets"
+title: "Learn Hindi - Guide for Hindi Alphabets"
 #permalink: /marketing/
 ---
 
@@ -234,18 +234,18 @@ title: "Barhakhari - Guide for Nepali Alphabets"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing Barhakhari - Guide for Nepali alphabets</div>
+    <div class="title">Introducing Learn Hindi - Guide for Hindi alphabets</div>
     <div class="description">
-      "Empowering young minds to trace the roots of our language, one Nepali letter at a time."
+      "Empowering young minds to trace the roots of hindi language, one Hindi letter at a time."
     </div>
     <div class="additional-info">
-      This app will guide children to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
+      This app will guide children and adults to write Hindi Vowels, Consonants, Numbers, and Barhakhadi.
     </div>
     <!-- App Store Button and Contact Label -->
     <div class="app-store-container">
       <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
       <div class="contact-label">
-        Contact us: <b>barhakharinepal@gmail.com</b>
+        Contact us: <b>golearnhindi@gmail.com</b>
       </div>
     </div>
   </div>
