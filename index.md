@@ -223,7 +223,7 @@ title: "Learn Hindi - Guide for Hindi Alphabets"
 <!-- Top-right Buttons -->
 <div class="top-right-buttons">
   <a href="faq" class="button-link">FAQs</a>
-  <a href="https://barhakhari.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
+  <a href="https://learnhindi.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
 </div>
 
 <div class="content-container">
