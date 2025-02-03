@@ -5,26 +5,26 @@ title: "FAQs - Barhakhari App"
 
 # Frequently Asked Questions (FAQs)
 
-### 1. **What is the purpose of the Barhakhari app?**
-The Barhakhari app is designed to help kids/adult learn to write Nepali alphabets, including vowels, consonants, numbers, and Barhakhari. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
+### 1. **What is the purpose of the Learn Hindi app?**
+The Learn Hindi app is designed to help kids/adult learn to write Hindi alphabets, including vowels, consonants, numbers, and Barhakhadi. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
 
 ---
 
 ### 2. **What features are available in the app?**
-- Learn to write Nepali Vowels, Consonants, Numbers, and Barhakhari.
+- Learn to write Hindi Vowels, Consonants, Numbers, and Barhakhadi.
 - Play a memory flip game with alphabets and their related images.
-- Learn words associated with Nepali alphabets.
+- Learn words associated with Hindi alphabets.
 - Switch between **Assistive Mode** and **Manual Mode** for alphabet tracing.
 - Adjust background sound and volume settings from the settings screen.
 - Play a quiz game with alphabets and animal sounds.
 - Play other fun game.
-- Enjoy watching youtube videos of kids nepali rhymes.
+- Enjoy watching youtube videos of kids hindi rhymes.
 - Enjoy free sketching and free writing canvas.
 
 ---
 
 ### 3. **What is the memory flip game?**
-The memory flip game is a fun activity where kids/adult match Nepali alphabets with related images. It’s designed to reinforce learning through visual and memory-based challenges.
+The memory flip game is a fun activity where kids/adult match Hindi alphabets with related images. It’s designed to reinforce learning through visual and memory-based challenges.
 
 ---
 
@@ -59,7 +59,7 @@ Yes, you can easily switch between the two modes from the settings screen. This 
 ---
 
 ### 10. **How do I report an issue or provide feedback?**
-If you encounter any issues or have feedback, please contact us at **barhakharinepal@gmail.com**. We’d love to hear from you and are happy to assist.
+If you encounter any issues or have feedback, please contact us at **golearnhindi@gmail.com**. We’d love to hear from you and are happy to assist.
 
 ---
 
@@ -73,5 +73,5 @@ Yes, we are continuously working to improve the app and add new features. Stay t
 
 ---
 
-If your question is not listed here, feel free to contact us at **barhakharinepal@gmail.com** for further assistance.
+If your question is not listed here, feel free to contact us at **golearnhindi@gmail.com** for further assistance.
 
