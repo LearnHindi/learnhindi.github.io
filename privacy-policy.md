@@ -53,24 +53,12 @@ Learn Hindi is an educational tool designed for both **children and adults**. Wh
 ### Usage of the App
 
 To operate effectively:
-- An **internet connection** is required to download resources and display ads.
+- An **internet connection** is required to download resources.
 - **Anonymous usage data** may be collected for improving app functionality. This data cannot identify or track individual users.
 
 ---
 
-### Advertising in the App
-
-Learn Hindi displays **contextual ads** through **Google AdMob**, ensuring compliance with child privacy regulations such as COPPA and GDPR-K. 
-
-- **Non-Personalized Ads**: Ads shown in the app are based on content context, not user behavior.
-- **Age-Appropriate Ads**: All ad creatives are reviewed manually by human moderators to ensure they are safe and appropriate for children.
-- **Safe Navigation**: Tapping on an ad may redirect the user to external content (e.g., the App Store or a website). However, all ads are carefully vetted for safety and relevance to children.
-
-For more details on Google AdMob’s policies, please visit their [Privacy Policy](https://policies.google.com/privacy).
-
----
-
-### Links to other sites
+### Links to Other Sites
 
 Our service may contain links to other sites that are not operated by us. Any external links in the app are protected by a parental gate to prevent children from accessing them without supervision.
 Once you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
@@ -104,7 +92,7 @@ We recommend parental supervision while children access YouTube videos to ensure
 ### Security Measures
 
 While Learn Hindi does not collect personal information, we take the following steps to ensure the app's safety:
-- Ensure secure access to resources and ads.
+- Ensure secure access to resources.
 - Monitor compliance with privacy regulations.
 - Regularly review and update our systems for potential vulnerabilities.
 
@@ -131,3 +119,4 @@ We reserve the right to update or modify this privacy policy at any time to comp
 If you have questions or concerns about this privacy policy or your safety while using Learn Hindi, please contact us at:
 
 **Email**: **golearnhindi@gmail.com**
+
