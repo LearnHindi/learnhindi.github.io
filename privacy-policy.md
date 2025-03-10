@@ -16,7 +16,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Effective Date: 1 Jan 2025
+Effective Date: 1 March 2025
 
 At Learn Hindi, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
 
@@ -58,18 +58,6 @@ To operate effectively:
 
 ---
 
-### Advertising in the App
-
-Learn Hindi displays **contextual ads** through **Google AdMob**, ensuring compliance with child privacy regulations such as COPPA and GDPR-K. 
-
-- **Non-Personalized Ads**: Ads shown in the app are based on content context, not user behavior.
-- **Age-Appropriate Ads**: All ad creatives are reviewed manually by human moderators to ensure they are safe and appropriate for children.
-- **Safe Navigation**: Tapping on an ad may redirect the user to external content (e.g., the App Store or a website). However, all ads are carefully vetted for safety and relevance to children.
-
-For more details on Google AdMob’s policies, please visit their [Privacy Policy](https://policies.google.com/privacy).
-
----
-
 ### Links to other sites
 
 Our service may contain links to other sites that are not operated by us. Any external links in the app are protected by a parental gate to prevent children from accessing them without supervision.
@@ -80,7 +68,7 @@ Please note that we have no control over and assume no responsibility for the co
 
 ### Children's Privacy
 
-Our app is designed for children ages 0-5, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
+Our app is designed for children ages 4+, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
 We do not collect any personal information from children. If we ever collect data, it will only be done with verified parental consent.
 If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately at **golearnhindi@gmail.com**. We will promptly delete such information.
 
