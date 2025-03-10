@@ -39,7 +39,7 @@ Yes, you can toggle the background sound on or off and adjust the volume in the 
 ---
 
 ### 6. **Are there ads in the app?**
-Yes, the app displays ads during use. However, if you make a one-time in-app purchase, all ads will be permanently removed.
+No, the app do not display ads during use.
 
 ---
 
