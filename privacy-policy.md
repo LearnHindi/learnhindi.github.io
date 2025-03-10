@@ -68,7 +68,7 @@ Please note that we have no control over and assume no responsibility for the co
 
 ### Children's Privacy
 
-Our app is designed for children ages 0-5, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
+Our app is designed for children ages 4+, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
 We do not collect any personal information from children. If we ever collect data, it will only be done with verified parental consent.
 If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately at **golearnhindi@gmail.com**. We will promptly delete such information.
 
