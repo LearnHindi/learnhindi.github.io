@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Learn Hindi - Guide for Hindi Alphabets"
+title: "Hindi Master - Guide for Hindi Alphabets"
 #permalink: /marketing/
 ---
 
@@ -234,7 +234,7 @@ title: "Learn Hindi - Guide for Hindi Alphabets"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing Learn Hindi - Guide for Hindi alphabets</div>
+    <div class="title">Introducing Hindi Master - Guide for Hindi alphabets</div>
     <div class="description">
       "Empowering young minds to trace the roots of hindi language, one Hindi letter at a time."
     </div>
