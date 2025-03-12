@@ -1,12 +1,12 @@
 ---
 layout: minimal
-title: "FAQs - Barhakhari App"
+title: "FAQs - Hindi Master App"
 ---
 
 # Frequently Asked Questions (FAQs)
 
-### 1. **What is the purpose of the Learn Hindi app?**
-The Learn Hindi app is designed to help kids/adult learn to write Hindi alphabets, including vowels, consonants, numbers, and Barhakhadi. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
+### 1. **What is the purpose of the Hindi Master app?**
+The Hindi Master app is designed to help kids/adult learn to write Hindi alphabets, including vowels, consonants, numbers, and Barhakhadi. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
 
 ---
 
